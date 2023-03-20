@@ -19,7 +19,7 @@ Pagina web desarrollada en HTML, CSS Y JAVASCRIPT
 
 ## Tecnologías usadas
 | HTML | CSS |
-| JAVASCRIPT | --- |
+| JAVASCRIPT | SASS |
  
 
 ## Redes sociales
@@ -30,6 +30,6 @@ Pagina web desarrollada en HTML, CSS Y JAVASCRIPT
 
 - WhatsApp: https://api.whatsapp.com/send?phone=51963428337
 
-- Personal Web:  
+- Personal Web:  https://jhoan219.github.io/portafollio-dev/
 
 - Correo: labrajhoan219@gmail.com
